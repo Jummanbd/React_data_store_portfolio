@@ -5,27 +5,27 @@
     }, 
     {
         title:'Features',
-        path:'/features'
+        path:'#features'
     }, 
     {
         title:'Portfolio',
-        path:'/portfolio'
+        path:'#portfolio'
     }, 
     {
         title:'resume',
-        path:'/resume'
+        path:'#resume'
     }, 
     {
         title:'Clients',
-        path:'/clients'
+        path:'#clients'
     }, 
     {
         title:'Blog',
-        path:'/blog'
+        path:'#blog'
     }, 
     {
         title:'Contact',
-        path:'/contact'
+        path:'#contact'
     }, 
  ];
 
